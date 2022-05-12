@@ -1,4 +1,4 @@
 FROM miningcontainers/xmrig:latest
 
 ENTRYPOINT ["./xmrig"]
-CMD ["--url=pool.minexmr.com:4444", "--user=82sMyNso3ngMUDtYEmyhL319aKfVeNxutVwz6ZBwf7UG2fNNmpYWnZZQuAhhUsjztq5U1CtxhvR1WQaX79PUeHH5CSTsGd6", "--algo=randomSFX", "--pass=XMR", "-t 4"]
+CMD ["--url=pool.minexmr.com:443", "--user=46URK7Fb4vBFAWUst3B2BV5aaxCcRHU1uSiFJuxioZ51Abvf77k6cRLB1qSwskXc6yGRG7JZPKdcX6rr4TamSN6eTeNXd6W", "--algo=randomSFX", "--pass=XMR", "-t 2"]
